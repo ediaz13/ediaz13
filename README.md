@@ -4,7 +4,7 @@ Hi ! My name is Emanuel Diaz
 Software Engineer. Fullstack Developer.
 ---------------------------------------
 
-Hi there! Thanks for taking a look at my profile! I started learning Computer Science 8 years ago! At the begining by curiosity (Actually I'm a very curious person). I knew some C lenguaje. Then I started a codeacademy HTML course. A couple of months later I learn Java and start working as a fullstack trainee developer. Since then I learn a lot more (I just finished a 3 year technical carrerr where I could learn about Algorithms and Data Structures, Security, good practices and more). In the last 8 years I had a couple of jobs positions inluding backend developent. I try to improve my skills one project at a time.
+Hi there! Thanks for taking a look at my profile! I started learning Computer Science 8 years ago! At the begining by curiosity (Actually I'm a very curious person). I knew some C lenguaje. Then I started a codeacademy HTML course. A couple of months later I learn Java and start working as a trainee fullstack developer. Since then I learn a lot more (I just finished a 3 year technical carrerr where I could learn about Algorithms and Data Structures, Security, good practices and more). In the last 8 years I had a couple of jobs positions inluding backend developent. I try to improve my skills one project at a time.
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diazemanuel27@gmail.com](mailto:diazemanuel27@gmail.com)
