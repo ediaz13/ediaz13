@@ -1,4 +1,4 @@
-Hi ! My name is Emanuel Diaz
+Hi! My name is Emanuel Diaz
 ====================================================================================================================================
 
 Software Engineer. Fullstack Developer.
