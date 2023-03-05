@@ -9,7 +9,7 @@ Hi there! Thanks for taking a look at my profile! I started learning Computer Sc
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diazemanuel27@gmail.com](mailto:diazemanuel27@gmail.com)
 * 🧠  I'm learning Javascript and React
-* 🤝  I'm open to collaborating on Fullstack Web Development. Backend.
+* 🤝  I'm open to collaborating on Fullstack Web Development and Backend projects.
 * ⚡  I'm a photography enthusiast. In my free time I'm taking swiming classes in a club nearby my house. 
 
 ### Skills
