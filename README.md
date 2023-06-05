@@ -4,7 +4,7 @@ Hi! My name is Emanuel Diaz
 Software Engineer. Fullstack Developer.
 ---------------------------------------
 
-Hello there! Thank you for visiting my profile! I've been immersed in the world of Computer Science for the past 9 years. It all started with my innate curiosity—I've always been a naturally inquisitive person. During my college days, I delved into the world of C language. As a personal hobby, I also embarked on a Codecademy HTML course in my spare time. A few months later, I expanded my knowledge to include Java and began working as a trainee full-stack developer.
+Hello there! Thank you for visiting my profile! I've been immersed in the world of Computer Science for the past 9 years. It all started with my innate curiosity—I've always been a naturally inquisitive person. During my college days, I delved into the world of C language. As a personal hobby, I also embarked on a Codecademy HTML and CSS course in my spare time. A few months later, I expanded my knowledge to include Java and began working as a trainee full-stack developer.
 
 Since then, I've continued to expand my skill set and expertise. Recently, I completed a 3 year Higher Technician in Information Technology program, where I gained valuable insights into areas such as Algorithms and Data Structures, Security, Design Patterns, and best practices. Additionally, I'm an avid learner who finds great joy in watching video tutorials and reading articles to enhance my knowledge.
 
