@@ -4,7 +4,11 @@ Hi! My name is Emanuel Diaz
 Software Engineer. Fullstack Developer.
 ---------------------------------------
 
-Hi there! Thanks for taking a look at my profile! I started learning Computer Science 8 years ago! At the begining by curiosity (Actually I'm a very curious person). I learn some C lenguaje at college. Then I started a Codeacademy HTML course in my free time as a hobbie. A couple of months later I learn Java and start working as a trainee fullstack developer. Since then I've learned a lot more: I just finished the Higher Technician in Information Technology carreer where I've learned about Algorithms and Data Structures, Security, Design Patterns, good practices and more. I'm also a person who loves learning watching video tutorials and reading articles. In the last 8 years I had a couple of jobs positions inluding backend and fullstack developent. I try to improve my skills one project at a time.
+Hello there! Thank you for visiting my profile! I've been immersed in the world of Computer Science for the past 9 years. It all started with my innate curiosity—I've always been a naturally inquisitive person. During my college days, I delved into the world of C language. As a personal hobby, I also embarked on a Codecademy HTML course in my spare time. A few months later, I expanded my knowledge to include Java and began working as a trainee full-stack developer.
+
+Since then, I've continued to expand my skill set and expertise. Recently, I completed a 3 year Higher Technician in Information Technology program, where I gained valuable insights into areas such as Algorithms and Data Structures, Security, Design Patterns, and best practices. Additionally, I'm an avid learner who finds great joy in watching video tutorials and reading articles to enhance my knowledge.
+
+Over the past 8 years, I've held various positions in both backend and full-stack development. I believe in constantly striving for improvement, honing my skills one project at a time.
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diazemanuel27@gmail.com](mailto:diazemanuel27@gmail.com)
