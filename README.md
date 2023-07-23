@@ -12,7 +12,7 @@ Over the past 8 years, I've held various positions in both backend and full-stac
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diazemanuel27@gmail.com](mailto:diazemanuel27@gmail.com)
-* 🧠  I'm learning Javascript and React
+* 🧠  I'm learning Typescript, Node, React, Springboot and Kafka.
 * 🤝  I'm open to collaborating on Fullstack Web Development and Backend projects.
 * ⚡  I'm a photography enthusiast. In my free time I'm taking swiming classes in a club nearby my house. 
 
